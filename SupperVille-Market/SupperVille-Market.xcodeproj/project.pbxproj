@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		2DA33F132D31EB450089F10C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2DA33EF42D31EB430089F10C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2DA33EFB2D31EB430089F10C;
+			remoteInfo = "SupperVille-Market";
+		};
+		2DA33F1D2D31EB450089F10C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2DA33EF42D31EB430089F10C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2DA33EFB2D31EB430089F10C;
+			remoteInfo = "SupperVille-Market";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2DA33EFC2D31EB430089F10C /* SupperVille-Market.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SupperVille-Market.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DA33F122D31EB450089F10C /* SupperVille-MarketTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SupperVille-MarketTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DA33F1C2D31EB450089F10C /* SupperVille-MarketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SupperVille-MarketUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2DA33F242D31EB450089F10C /* Exceptions for "SupperVille-Market" folder in "SupperVille-Market" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 2DA33EFB2D31EB430089F10C /* SupperVille-Market */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2DA33EFE2D31EB430089F10C /* SupperVille-Market */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2DA33F242D31EB450089F10C /* Exceptions for "SupperVille-Market" folder in "SupperVille-Market" target */,
+			);
+			path = "SupperVille-Market";
+			sourceTree = "<group>";
+		};
+		2DA33F152D31EB450089F10C /* SupperVille-MarketTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "SupperVille-MarketTests";
+			sourceTree = "<group>";
+		};
+		2DA33F1F2D31EB450089F10C /* SupperVille-MarketUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "SupperVille-MarketUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2DA33EF92D31EB430089F10C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F0F2D31EB450089F10C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F192D31EB450089F10C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2DA33EF32D31EB430089F10C = {
+			isa = PBXGroup;
+			children = (
+				2DA33EFE2D31EB430089F10C /* SupperVille-Market */,
+				2DA33F152D31EB450089F10C /* SupperVille-MarketTests */,
+				2DA33F1F2D31EB450089F10C /* SupperVille-MarketUITests */,
+				2DA33EFD2D31EB430089F10C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2DA33EFD2D31EB430089F10C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2DA33EFC2D31EB430089F10C /* SupperVille-Market.app */,
+				2DA33F122D31EB450089F10C /* SupperVille-MarketTests.xctest */,
+				2DA33F1C2D31EB450089F10C /* SupperVille-MarketUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2DA33EFB2D31EB430089F10C /* SupperVille-Market */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2DA33F252D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-Market" */;
+			buildPhases = (
+				2DA33EF82D31EB430089F10C /* Sources */,
+				2DA33EF92D31EB430089F10C /* Frameworks */,
+				2DA33EFA2D31EB430089F10C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2DA33EFE2D31EB430089F10C /* SupperVille-Market */,
+			);
+			name = "SupperVille-Market";
+			packageProductDependencies = (
+			);
+			productName = "SupperVille-Market";
+			productReference = 2DA33EFC2D31EB430089F10C /* SupperVille-Market.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2DA33F112D31EB450089F10C /* SupperVille-MarketTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2DA33F2A2D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-MarketTests" */;
+			buildPhases = (
+				2DA33F0E2D31EB450089F10C /* Sources */,
+				2DA33F0F2D31EB450089F10C /* Frameworks */,
+				2DA33F102D31EB450089F10C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2DA33F142D31EB450089F10C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2DA33F152D31EB450089F10C /* SupperVille-MarketTests */,
+			);
+			name = "SupperVille-MarketTests";
+			packageProductDependencies = (
+			);
+			productName = "SupperVille-MarketTests";
+			productReference = 2DA33F122D31EB450089F10C /* SupperVille-MarketTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2DA33F1B2D31EB450089F10C /* SupperVille-MarketUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2DA33F2D2D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-MarketUITests" */;
+			buildPhases = (
+				2DA33F182D31EB450089F10C /* Sources */,
+				2DA33F192D31EB450089F10C /* Frameworks */,
+				2DA33F1A2D31EB450089F10C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2DA33F1E2D31EB450089F10C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2DA33F1F2D31EB450089F10C /* SupperVille-MarketUITests */,
+			);
+			name = "SupperVille-MarketUITests";
+			packageProductDependencies = (
+			);
+			productName = "SupperVille-MarketUITests";
+			productReference = 2DA33F1C2D31EB450089F10C /* SupperVille-MarketUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2DA33EF42D31EB430089F10C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					2DA33EFB2D31EB430089F10C = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					2DA33F112D31EB450089F10C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 2DA33EFB2D31EB430089F10C;
+					};
+					2DA33F1B2D31EB450089F10C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 2DA33EFB2D31EB430089F10C;
+					};
+				};
+			};
+			buildConfigurationList = 2DA33EF72D31EB430089F10C /* Build configuration list for PBXProject "SupperVille-Market" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2DA33EF32D31EB430089F10C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2DA33EFD2D31EB430089F10C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2DA33EFB2D31EB430089F10C /* SupperVille-Market */,
+				2DA33F112D31EB450089F10C /* SupperVille-MarketTests */,
+				2DA33F1B2D31EB450089F10C /* SupperVille-MarketUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2DA33EFA2D31EB430089F10C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F102D31EB450089F10C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F1A2D31EB450089F10C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2DA33EF82D31EB430089F10C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F0E2D31EB450089F10C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2DA33F182D31EB450089F10C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2DA33F142D31EB450089F10C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2DA33EFB2D31EB430089F10C /* SupperVille-Market */;
+			targetProxy = 2DA33F132D31EB450089F10C /* PBXContainerItemProxy */;
+		};
+		2DA33F1E2D31EB450089F10C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2DA33EFB2D31EB430089F10C /* SupperVille-Market */;
+			targetProxy = 2DA33F1D2D31EB450089F10C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2DA33F262D31EB450089F10C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SupperVille-Market/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SupperVille;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-Market";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2DA33F272D31EB450089F10C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SupperVille-Market/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SupperVille;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-Market";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2DA33F282D31EB450089F10C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2DA33F292D31EB450089F10C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2DA33F2B2D31EB450089F10C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-MarketTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SupperVille-Market.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SupperVille-Market";
+			};
+			name = Debug;
+		};
+		2DA33F2C2D31EB450089F10C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-MarketTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SupperVille-Market.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SupperVille-Market";
+			};
+			name = Release;
+		};
+		2DA33F2E2D31EB450089F10C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-MarketUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "SupperVille-Market";
+			};
+			name = Debug;
+		};
+		2DA33F2F2D31EB450089F10C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69KP7AWB28;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VitorSpessoto.SupperVille-MarketUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "SupperVille-Market";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2DA33EF72D31EB430089F10C /* Build configuration list for PBXProject "SupperVille-Market" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DA33F282D31EB450089F10C /* Debug */,
+				2DA33F292D31EB450089F10C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2DA33F252D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-Market" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DA33F262D31EB450089F10C /* Debug */,
+				2DA33F272D31EB450089F10C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2DA33F2A2D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-MarketTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DA33F2B2D31EB450089F10C /* Debug */,
+				2DA33F2C2D31EB450089F10C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2DA33F2D2D31EB450089F10C /* Build configuration list for PBXNativeTarget "SupperVille-MarketUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DA33F2E2D31EB450089F10C /* Debug */,
+				2DA33F2F2D31EB450089F10C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2DA33EF42D31EB430089F10C /* Project object */;
+}
